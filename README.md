@@ -1,5 +1,7 @@
-# Flipkart-Customer-Segmentation-Targeted-Marketing-Intelligence
+# Main project: Flipkart-Customer-Segmentation-Targeted-Marketing-Intelligence
 Data ingestion and multi-format parsing (CSV and JSON), data cleaning and normalization, relational schema design, SQL querying and RFM modelling, customer segmentation techniques, KPI design and metric derivation, BI dashboard development in Power BI, marketing strategy framing, business report writing, and campaign performance analysis.
+Created **Jira Project Management Integration** - Epic Structure, Sprint Planning, Story and Task Structure, practised breaking
+large ambiguous problems into trackable tasks, estimating effort per task, maintaining a traceable record of what decisions were made and when.
 Domain: E-Commerce Analytics | Customer Intelligence | Marketing Analytics | Retail Business Strategy
 cleaned & integrated the raw dataset, built an RFM scoring model in SQL, assigned each of the 5,000 customers to one of ten behavioural segments, analysed their product interests and browsing patterns, and produced a marketing recommendation for each segment backed by numbers.
 **Business Questions This Project Answers :**
