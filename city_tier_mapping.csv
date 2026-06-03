@@ -1,0 +1,33 @@
+city,state,tier,region
+Mumbai,Maharashtra,Tier 1,West
+Delhi,Delhi,Tier 1,North
+Bengaluru,Karnataka,Tier 1,South
+Hyderabad,Telangana,Tier 1,South
+Chennai,Tamil Nadu,Tier 1,South
+Kolkata,West Bengal,Tier 1,East
+Pune,Maharashtra,Tier 1,West
+Ahmedabad,Gujarat,Tier 1,West
+Jaipur,Rajasthan,Tier 2,North
+Lucknow,Uttar Pradesh,Tier 2,North
+Chandigarh,Punjab,Tier 2,North
+Nagpur,Maharashtra,Tier 2,West
+Indore,Madhya Pradesh,Tier 2,North
+Bhopal,Madhya Pradesh,Tier 2,North
+Coimbatore,Tamil Nadu,Tier 2,South
+Kochi,Kerala,Tier 2,South
+Visakhapatnam,Andhra Pradesh,Tier 2,South
+Patna,Bihar,Tier 2,East
+Bhubaneswar,Odisha,Tier 2,East
+Guwahati,Assam,Tier 2,East
+Varanasi,Uttar Pradesh,Tier 3,North
+Agra,Uttar Pradesh,Tier 3,North
+Meerut,Uttar Pradesh,Tier 3,North
+Jodhpur,Rajasthan,Tier 3,North
+Surat,Gujarat,Tier 3,West
+Nashik,Maharashtra,Tier 3,West
+Aurangabad,Maharashtra,Tier 3,West
+Madurai,Tamil Nadu,Tier 3,South
+Tiruchirappalli,Tamil Nadu,Tier 3,South
+Mysuru,Karnataka,Tier 3,South
+Ranchi,Jharkhand,Tier 3,East
+Siliguri,West Bengal,Tier 3,East
