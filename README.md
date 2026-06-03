@@ -1,0 +1,2 @@
+# Flipkart-Customer-Segmentation-Targeted-Marketing-Intelligence
+Data ingestion and multi-format parsing (CSV and JSON), data cleaning and normalization, relational schema design, SQL querying and RFM modelling, customer segmentation techniques, KPI design and metric derivation, BI dashboard development in Power BI, marketing strategy framing, business report writing, and campaign performance analysis.
